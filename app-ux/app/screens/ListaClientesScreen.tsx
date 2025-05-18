@@ -34,40 +34,40 @@ const ListaClientesScreen: React.FC = () => {
     },
     {
       id: "2",
-      initials: "GN",
-      name: "Gabriel Nascimento",
+      initials: "MC",
+      name: "Milena Castro",
       role: "Analista",
       updateTime: "Atualizado há 1d",
       imageUri: "https://cdn.builder.io/api/v1/image/assets/TEMP/3ac53cb238b231281854d2fc4bdd16352320e276?placeholderIfAbsent=true&apiKey=46bc948b7cc54a4ca993c1b27042eda8"
     },
     {
       id: "3",
-      initials: "GN",
-      name: "Gabriel Nascimento",
+      initials: "IS",
+      name: "Iasmin Santos",
       role: "Analista",
       updateTime: "Atualizado há 1d",
       imageUri: "https://cdn.builder.io/api/v1/image/assets/TEMP/3ac53cb238b231281854d2fc4bdd16352320e276?placeholderIfAbsent=true&apiKey=46bc948b7cc54a4ca993c1b27042eda8"
     },
     {
       id: "4",
-      initials: "GN",
-      name: "Gabriel Nascimento",
+      initials: "JP",
+      name: "João Perreira",
       role: "Analista",
       updateTime: "Atualizado há 1d",
       imageUri: "https://cdn.builder.io/api/v1/image/assets/TEMP/3ac53cb238b231281854d2fc4bdd16352320e276?placeholderIfAbsent=true&apiKey=46bc948b7cc54a4ca993c1b27042eda8"
     },
     {
       id: "5",
-      initials: "GN",
-      name: "Gabriel Nascimento",
+      initials: "GS",
+      name: "Giovana Silva",
       role: "Analista",
       updateTime: "Atualizado há 1d",
       imageUri: "https://cdn.builder.io/api/v1/image/assets/TEMP/3ac53cb238b231281854d2fc4bdd16352320e276?placeholderIfAbsent=true&apiKey=46bc948b7cc54a4ca993c1b27042eda8"
     },
     {
       id: "6",
-      initials: "GN",
-      name: "Gabriel Nascimento",
+      initials: "SS",
+      name: "Sophia Senne",
       role: "Analista",
       updateTime: "Atualizado há 1d",
       imageUri: "https://cdn.builder.io/api/v1/image/assets/TEMP/3ac53cb238b231281854d2fc4bdd16352320e276?placeholderIfAbsent=true&apiKey=46bc948b7cc54a4ca993c1b27042eda8"
