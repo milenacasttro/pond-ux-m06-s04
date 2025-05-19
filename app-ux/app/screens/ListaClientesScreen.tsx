@@ -51,7 +51,7 @@ const ListaClientesScreen: React.FC = () => {
     {
       id: "4",
       initials: "JP",
-      name: "João Perreira",
+      name: "João Pereira",
       role: "Analista",
       updateTime: "Atualizado há 1d",
       imageUri: "https://cdn.builder.io/api/v1/image/assets/TEMP/3ac53cb238b231281854d2fc4bdd16352320e276?placeholderIfAbsent=true&apiKey=46bc948b7cc54a4ca993c1b27042eda8"
